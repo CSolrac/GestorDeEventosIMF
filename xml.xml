@@ -1,0 +1,541 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<eventos>
+
+	<evento>
+
+		<nombreEvento>Curso de Robótica [XML]</nombreEvento>
+
+		<fecha>12/06/2020</fecha>
+
+		<hora>16:00</hora>
+
+		<foto>f1.jpeg</foto>
+
+		<sala>
+
+			<numero>2.1</numero>
+
+			<aforo>45</aforo>
+
+		</sala>
+
+		<ponentes>
+			
+			<ponente>
+
+				<nombre>Antonio Otero</nombre>
+
+				<telefono>666456789</telefono>
+
+				<mail>aotero@imf.com</mail>
+
+			</ponente>
+
+			<ponente>
+
+				<nombre>Manuel Gómez</nombre>
+
+				<telefono>666455644</telefono>
+
+				<mail>mgomez@imf.com</mail>
+
+			</ponente>
+
+			<ponente>
+
+				<nombre>Antonio Cardador</nombre>
+
+				<telefono>666789456</telefono>
+
+				<mail>acardador@imf.com</mail>
+
+			</ponente>
+
+		</ponentes>
+
+		<invitaciones>
+
+			<invitacion>
+
+				<asistente>
+
+					<nombre>Jorge Flores</nombre>
+
+					<mail>jflores@alumno.com</mail>
+
+				</asistente>
+
+				<referencia>1</referencia>
+
+				<confirmacion>false</confirmacion>
+
+			</invitacion>
+
+			<invitacion>
+
+				<asistente>
+
+					<nombre>Leia Pérez</nombre>
+
+					<mail>lperez@alumno.com</mail>
+
+				</asistente>
+
+				<referencia>2</referencia>
+
+				<confirmacion>true</confirmacion>
+
+			</invitacion>
+
+			<invitacion>
+
+				<asistente>
+
+					<nombre>Felipe Ríos</nombre>
+
+					<mail>frios@alumno.com</mail>
+
+				</asistente>
+
+				<referencia>3</referencia>
+
+				<confirmacion>true</confirmacion>
+
+			</invitacion>
+
+		</invitaciones>
+
+	</evento>
+
+	<evento>
+
+		<nombreEvento>Ciberseguridad [XML]</nombreEvento>
+
+		<fecha>16/03/2020</fecha>
+
+		<hora>18:00</hora>
+
+		<foto>f2.jpeg</foto>
+
+		<sala>
+
+			<numero>1.2</numero>
+
+			<aforo>30</aforo>
+
+		</sala>
+
+		<ponentes>
+
+			<ponente>
+
+				<nombre>Luis de la Huerta</nombre>
+
+				<telefono>666456789</telefono>
+
+				<mail>lhuerta@imf.com</mail>
+
+			</ponente>
+
+			<ponente>
+
+				<nombre>Carlos Ruiz</nombre>
+
+				<telefono>666455644</telefono>
+
+				<mail>cruiz@imf.com</mail>
+
+			</ponente>
+
+		</ponentes>
+
+		<invitaciones>
+
+			<invitacion>
+
+				<asistente>
+
+					<nombre>Irene Montero</nombre>
+
+					<mail>imontero@alumno.com</mail>
+
+				</asistente>
+
+				<referencia>001</referencia>
+
+				<confirmacion>true</confirmacion>
+
+			</invitacion>
+
+			<invitacion>
+
+				<asistente>
+
+					<nombre>Luisa Cabezas</nombre>
+
+					<mail>lcabezas@alumno.com</mail>
+
+				</asistente>
+
+				<referencia>002</referencia>
+
+				<confirmacion>true</confirmacion>
+
+			</invitacion>
+
+			<invitacion>
+
+				<asistente>
+
+					<nombre>Francisco Granados</nombre>
+
+					<mail>fgranados@alumno.com</mail>
+
+				</asistente>
+
+				<referencia>003</referencia>
+
+				<confirmacion>true</confirmacion>
+
+			</invitacion>
+
+			<invitacion>
+
+			<asistente>
+
+				<nombre>Alberto Trujillo</nombre>
+
+				<mail>atrujillo@alumno.com</mail>
+
+			</asistente>
+
+			<referencia>004</referencia>
+
+			<confirmacion>true</confirmacion>
+
+		</invitacion>
+
+		</invitaciones>
+
+	</evento>
+
+	<evento>
+
+		<nombreEvento>Criptomonedas [XML]</nombreEvento>
+
+		<fecha>15/05/2020</fecha>
+
+		<hora>10:00</hora>
+
+		<foto>f3.jpeg</foto>
+
+		<sala>
+
+			<numero>2.3</numero>
+
+			<aforo>50</aforo>
+
+		</sala>
+
+		<ponentes>
+
+			<ponente>
+
+				<nombre>Jose Arendell</nombre>
+
+				<telefono>668521496</telefono>
+
+				<mail>jarendell@imf.com</mail>
+
+			</ponente>
+
+		</ponentes>
+
+		<invitaciones>
+
+			<invitacion>
+
+				<asistente>
+
+					<nombre>Ana López</nombre>
+
+					<mail>alopez@alumno.com</mail>
+
+				</asistente>
+
+				<referencia>001</referencia>
+
+				<confirmacion>false</confirmacion>
+
+			</invitacion>
+
+			<invitacion>
+
+				<asistente>
+
+					<nombre>Laura del Toro</nombre>
+
+					<mail>ltoro@alumno.com</mail>
+
+				</asistente>
+
+				<referencia>002</referencia>
+
+				<confirmacion>false</confirmacion>
+
+			</invitacion>
+
+			<invitacion>
+
+				<asistente>
+
+					<nombre>Gabriel Rivas</nombre>
+
+					<mail>grivas@alumno.com</mail>
+
+				</asistente>
+
+				<referencia>003</referencia>
+
+				<confirmacion>true</confirmacion>
+
+			</invitacion>
+
+		</invitaciones>
+
+	</evento>
+
+	<evento>
+
+		<nombreEvento>Futuro de la IA [XML]</nombreEvento>
+
+		<fecha>25/04/2020</fecha>
+
+		<hora>17:30</hora>
+
+		<foto>f4.jpeg</foto>
+
+		<sala>
+
+			<numero>1.1</numero>
+
+			<aforo>35</aforo>
+
+		</sala>
+
+		<ponentes>
+
+			<ponente>
+
+				<nombre>Juan Johnson</nombre>
+
+				<telefono>666455644</telefono>
+
+				<mail>jjohnson@imf.com</mail>
+
+			</ponente>
+
+			<ponente>
+
+				<nombre>Miguel Moreno</nombre>
+
+				<telefono>666789456</telefono>
+
+				<mail>mmoreno@imf.com</mail>
+
+			</ponente>
+
+			<ponente>
+
+				<nombre>Carlos Herrera</nombre>
+
+				<telefono>667586789</telefono>
+
+				<mail>cherrera@imf.com</mail>
+
+			</ponente>
+
+			<ponente>
+
+				<nombre>Iker Jiménez</nombre>
+
+				<telefono>666823675</telefono>
+
+				<mail>ijimenez@imf.com</mail>
+
+			</ponente>
+
+			<ponente>
+
+				<nombre>Carmen Porter</nombre>
+
+				<telefono>663698524</telefono>
+
+				<mail>cporter@imf.com</mail>
+
+			</ponente>
+
+		</ponentes>
+
+		<invitaciones>
+
+			<invitacion>
+
+				<asistente>
+
+					<nombre>Sara Caminos</nombre>
+
+					<mail>scamino@alumno.com</mail>
+
+				</asistente>
+
+				<referencia>001</referencia>
+
+				<confirmacion>false</confirmacion>
+
+			</invitacion>
+
+			<invitacion>
+
+				<asistente>
+
+					<nombre>Jordi Porta</nombre>
+
+					<mail>jporta@alumno.com</mail>
+
+				</asistente>
+
+				<referencia>002</referencia>
+
+				<confirmacion>true</confirmacion>
+
+			</invitacion>
+
+		</invitaciones>
+
+	</evento>
+
+	<evento>
+
+		<nombreEvento>'Quien vale vale y quien no para FrontEnd' [XML]</nombreEvento>
+
+		<fecha>26/07/2020</fecha>
+
+		<hora>12:30</hora>
+
+		<foto>f5.jpeg</foto>
+
+		<sala>
+
+			<numero>1.2</numero>
+
+			<aforo>30</aforo>
+
+		</sala>
+
+		<ponentes>
+
+			<ponente>
+
+				<nombre>Rafa Nadal</nombre>
+
+				<telefono>663756946</telefono>
+
+				<mail>rnadal@imf.com</mail>
+
+			</ponente>
+
+			<ponente>
+
+				<nombre>Tommy Grau</nombre>
+
+				<telefono>617458954</telefono>
+
+				<mail>tgrau@imf.com</mail>
+
+			</ponente>
+
+			<ponente>
+
+				<nombre>Santiago Abascalo</nombre>
+
+				<telefono>666789456</telefono>
+
+				<mail>sabascalo@imf.com</mail>
+
+			</ponente>
+
+		</ponentes>
+
+		<invitaciones>
+
+			<invitacion>
+
+				<asistente>
+
+					<nombre>Morgan Lamarc</nombre>
+
+					<mail>mlamarc@alumno.com</mail>
+
+				</asistente>
+
+				<referencia>001</referencia>
+
+				<confirmacion>false</confirmacion>
+
+			</invitacion>
+
+			<invitacion>
+
+				<asistente>
+
+					<nombre>Robin Colores</nombre>
+
+					<mail>rcolores@alumno.com</mail>
+
+				</asistente>
+
+				<referencia>002</referencia>
+
+				<confirmacion>false</confirmacion>
+
+			</invitacion>
+
+			<invitacion>
+
+				<asistente>
+
+					<nombre>Gloria Andares</nombre>
+
+					<mail>gandares@alumno.com</mail>
+
+				</asistente>
+
+				<referencia>003</referencia>
+
+				<confirmacion>false</confirmacion>
+
+			</invitacion>
+
+			<invitacion>
+
+				<asistente>
+
+					<nombre>Jesús Candel</nombre>
+
+					<mail>gcandel@alumno.com</mail>
+
+				</asistente>
+
+				<referencia>004</referencia>
+
+				<confirmacion>true</confirmacion>
+
+			</invitacion>
+
+		</invitaciones>
+
+	</evento>
+
+</eventos>

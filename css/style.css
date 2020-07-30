@@ -1,0 +1,273 @@
+html{overflow-y: scroll;}
+
+*{
+    font-family: Arial;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    margin: 15px 0px 15px 10px;
+}
+
+header img{
+    width: 200px;
+}
+
+header>label{
+    float: right;
+    margin: 45px 165px 0px 0px;
+    font-weight: bolder;
+    font-size: 30px;
+    color: #8F3237;
+}
+.container{
+    width: 800px;
+    margin: auto;
+    overflow: hidden;
+}
+
+section{
+    width: 580px;
+    float: right;
+    padding: 0px 0px 4px 0px;
+    margin-bottom: 50px;
+    background-color: #FFEFF0;
+    border-radius: 10px;
+}
+
+
+.hidden{
+    display: none;
+}
+
+#buscando{
+
+}
+
+.parrafo{
+    color: #8F3237;
+    padding: 15px 0px 10px 0px;
+    font-weight: bold;
+    text-align: center;
+}
+
+#buscando>select{
+    font-size: 15px;
+    border: 2px solid #8F3237;
+    height: 30px;
+    width: 170px; /* Valores para cuadrarlo con el buscador: 150px;*/
+    margin: 5px 5px 20px 200px; /* Valores para cuadrarlo con el buscador: 0px 5px 0px 80px;*/
+    border-radius: 5px;
+}
+
+.campos{
+    border: 1px solid #8F3237;
+    font-size: 15px;
+    height: 24px;
+    width: 250px;
+    margin: 5px 0px 20px 0px;
+    padding-left: 10px;
+    font-style: italic;
+}
+
+.nPon{
+    border: 1px solid #8F3237;
+    font-size: 15px;
+    height: 24px;
+    width: 35px;
+    margin: 5px 0px 20px 0px;
+    padding-left: 10px;
+    font-style: italic;
+}
+
+.campos:focus{
+    background-color: #FFFAFA;
+}
+
+.nPon:focus{
+    background-color: #FFFAFA;
+}
+
+.labeles{
+    margin: 11px 15px 20px 0px;
+    float: left;
+    width: 200px;
+    overflow: hidden;
+    text-align: right;
+    color: #8F3237;
+}
+
+.labeles2{
+    margin: 0px 15px 0px 0px;
+    float: left;
+    text-align: right;
+    color: #8F3237;
+}
+
+.inputs{
+    width: 500px;
+    float: right;
+    padding-right: 40px;
+}
+
+.etiquetas{
+    width: 280px;
+    float: left;
+}
+
+.button{
+     font-size: 15px;
+     height: 40px;
+     width: 150px;
+     margin:15px 0px 30px 215px;
+     background-color: #8F3237;
+     color: #ffffff;
+     font-weight: bolder;
+     border: none;
+     cursor: pointer;
+
+ }
+
+.button:hover{
+    background-color: #BA6E72;
+    transition: all ease 0.1s;
+}
+
+#invitacion>input{
+    margin: 10px 0px 0px 0px;
+    font-style: italic;
+}
+
+.bienvenida{
+    color: #8F3237;
+    font-weight: bolder;
+    font-size: 20px;
+    text-align: center;
+}
+
+.informacion{
+    color: #8F3237;
+    text-align: center;
+}
+
+aside{
+    float: left;
+}
+
+.menu{
+    width: 220px;
+    margin: auto;
+}
+
+.boton{
+    width: 200px;
+    height: 30px;
+    margin: 0px 0px 10px 10px;
+    padding: 15px 0px 0px  0px;
+    background-color: #8F3237;
+    border-radius: 10px;
+    color: #ffffff;
+    text-align: center;
+    cursor: pointer;
+    font-weight: bolder;
+}
+
+.boton:hover{
+    background-color: #BA6E72;
+    transition: all ease 0.1s;
+}
+
+footer{
+    background-color: #8F3237;
+    position: fixed;
+    bottom: 0;
+    height: 30px;
+    width: 100%;
+}
+
+footer>img{
+    float: left;
+    height: 28px;
+    margin: 1px;
+}
+
+footer>label{
+    color: #ffffff;
+    font-style: italic;
+    font-size: 12px;
+    float: right;
+    margin: 10px 15px 0px 0px;
+}
+
+#resultados{
+
+    width: 350px;
+    float: left;
+    overflow: hidden;
+    margin-left: 115px;
+
+}
+
+.fontStyle1{
+     font-weight: bolder;
+     color: #8F3237;
+ }
+
+.small{
+    font-size: smaller;
+    color: #737373;
+    margin: 5px 0px;
+}
+
+.fontStyle2{
+    font-style: italic;
+    color: #8D6565;
+    font-size: small;
+}
+
+.ponente{
+    margin: 15px 0px;
+}
+
+.big{
+    margin: 5px 0px 10px 0px;
+}
+
+.foto{
+    margin: 0px 0px 20px 0px;
+}
+
+.objeto{
+    background-color: #ffffff;
+    box-shadow: inset 0 0 0 1px #8F3237;
+    padding: 20px 30px 20px 60px;
+    transition: all ease-in-out 0.2s;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.objeto:hover{
+    box-shadow: inset 0 0 0 5px #8F3237;
+    transition: all ease-in-out 0.2s;
+}
+
+.presEv{
+}
+
+.contEv{
+    display: none;
+}
+
+.objeto:hover {
+    background-color: #FEF9F9;
+}
+
+.arrow{
+    width: 20px;
+    position: relative;
+    float: right;
+}

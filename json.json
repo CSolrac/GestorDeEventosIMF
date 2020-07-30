@@ -1,0 +1,286 @@
+[
+	{
+		"nombre": "Curso de Robótica [JSON]",
+		"fecha": "12/06/2020",
+		"hora": "16:00",
+		"foto": "f1.jpeg",
+		"sala":{
+			"numero": "2.1",
+			"aforo": 45
+		},
+		"ponentes": [
+			{
+				"nombre": "Antonio Otero",
+				"telefono": "666456789",
+				"mail": "aotero@imf.com"
+			},
+			{
+				"nombre": "Manuel Gómez",
+				"telefono": "666455644",
+				"mail": "mgomez@imf.com"
+			},
+			{
+				"nombre": "Antonio Cardador",
+				"telefono": "666789456",
+				"mail": "acardador@imf.com"
+			}
+		],
+		"invitaciones": [
+			{
+				"asistente":
+					{
+						"nombre": "Jorge Flores",
+						"mail": "jflores@alumno.com"
+					},
+				"referencia": 1,
+				"confirmacion": false
+			},
+			{
+				"asistente":
+					{
+						"nombre": "Leia Pérez",
+						"mail": "lperez@alumno.com"
+					},
+				"referencia": 2,
+				"confirmacion": true
+			},
+			{
+				"asistente":
+					{
+						"nombre": "Felipe Ríos",
+						"mail": "frios@alumno.com"
+					},
+				"referencia": 3,
+				"confirmacion": true
+			}
+		]
+	},
+	{
+		"nombre": "Ciberseguridad [JSON]",
+		"fecha": "16/03/2020",
+		"hora": "18:00",
+		"foto": "f2.jpeg",
+		"sala":{
+			"numero": "1.2",
+			"aforo": 30
+		},
+		"ponentes": [
+			{
+				"nombre": "Luis de la Huerta",
+				"telefono": "666456789",
+				"mail": "lhuerta@imf.com"
+			},
+			{
+				"nombre": "Carlos Ruiz",
+				"telefono": "666455644",
+				"mail": "cruiz@imf.com"
+			}
+		],
+		"invitaciones": [
+			{
+				"asistente":
+					{
+						"nombre": "Irene Montero",
+						"mail": "imontero@alumno.com"
+					},
+				"referencia": 1,
+				"confirmacion": true
+			},
+			{
+				"asistente":
+					{
+						"nombre": "Luisa Cabezas",
+						"mail": "lcabezas@alumno.com"
+					},
+				"referencia": 2,
+				"confirmacion": true
+			},
+			{
+				"asistente":
+					{
+						"nombre": "Francisco Granados",
+						"mail": "fgranados@alumno.com"
+					},
+				"referencia": 3,
+				"confirmacion": true
+			},
+			{
+				"asistente":
+					{
+						"nombre": "Alberto Trujillo",
+						"mail": "atrujillo@alumno.com"
+					},
+				"referencia": 4,
+				"confirmacion": true
+			}
+		]
+	},
+	{
+		"nombre": "Criptomonedas [JSON]",
+		"fecha": "15/05/2020",
+		"hora": "10:00",
+		"foto": "f3.jpeg",
+		"sala":{
+			"numero": "2.3",
+			"aforo": 50
+		},
+		"ponentes": [
+			{
+				"nombre": "Jose Arendell",
+				"telefono": "668521496",
+				"mail": "jarendell@imf.com"
+			}
+		],
+		"invitaciones": [
+			{
+				"asistente":
+					{
+						"nombre": "Ana López",
+						"mail": "alopez@alumno.com"
+					},
+				"referencia": 1,
+				"confirmacion": false
+			},
+			{
+				"asistente":
+					{
+						"nombre": "Laura del Toro",
+						"mail": "ltoro@alumno.com"
+					},
+				"referencia": 2,
+				"confirmacion": false
+			},
+			{
+				"asistente":
+					{
+						"nombre": "Gabriel Rivas",
+						"mail": "grivas@alumno.com"
+					},
+				"referencia": 3,
+				"confirmacion": true
+			}
+		]
+	},
+	{
+		"nombre": "Futuro de la IA [JSON]",
+		"fecha": "25/04/2020",
+		"hora": "17:30",
+		"foto": "f4.jpeg",
+		"sala":{
+			"numero": "1.1",
+			"aforo": 35
+		},
+		"ponentes": [
+			{
+				"nombre": "Juan Johnson",
+				"telefono": "666455644",
+				"mail": "jjohnson@imf.com"
+			},
+			{
+				"nombre": "Miguel Moreno",
+				"telefono": "666789456",
+				"mail": "mmoreno@imf.com"
+			},
+			{
+				"nombre": "Carlos Herrera",
+				"telefono": "667586789",
+				"mail": "cherrera@imf.com"
+			},
+			{
+				"nombre": "Iker Jiménez",
+				"telefono": "666823675",
+				"mail": "ijimenez@imf.com"
+			},
+			{
+				"nombre": "Carmen Porter",
+				"telefono": "663698524",
+				"mail": "cporter@imf.com"
+			}
+		],
+		"invitaciones": [
+			{
+				"asistente":
+					{
+						"nombre": "Sara Caminos",
+						"mail": "scamino@alumno.com"
+					},
+				"referencia": 1,
+				"confirmacion": false
+			},
+			{
+				"asistente":
+					{
+						"nombre": "Jordi Porta",
+						"mail": "jporta@alumno.com"
+					},
+				"referencia": 2,
+				"confirmacion": true
+			}
+		]
+	},
+	{
+		"nombre": "'Quien vale vale y quien no para FrontEnd' [JSON]",
+		"fecha": "26/07/2020",
+		"hora": "12:30",
+		"foto": "f5.jpeg",
+		"sala":{
+			"numero": "1.2",
+			"aforo": 30
+		},
+		"ponentes": [
+			{
+				"nombre": "Rafa Nadal",
+				"telefono": "663756946",
+				"mail": "rnadal@imf.com"
+			},
+			{
+				"nombre": "Tommy Grau",
+				"telefono": "617458954",
+				"mail": "tgrau@imf.com"
+			},
+			{
+				"nombre": "Santiago Abascalo",
+				"telefono": "666789456",
+				"mail": "sabascalo@imf.com"
+			}
+		],
+		"invitaciones": [
+			{
+				"asistente":
+					{
+						"nombre": "Morgan Lamarc",
+						"mail": "mlamarc@alumno.com"
+					},
+				"referencia": 1,
+				"confirmacion": false
+			},
+			{
+				"asistente":
+					{
+						"nombre": "Robin Colores",
+						"mail": "rcolores@alumno.com"
+					},
+				"referencia": 2,
+				"confirmacion": false
+			},
+			{
+				"asistente":
+					{
+						"nombre": "Gloria Andares",
+						"mail": "gandares@alumno.com"
+					},
+				"referencia": 3,
+				"confirmacion": false
+			},
+			{
+				"asistente":
+					{
+						"nombre": "Jesús Candel",
+						"mail": "gcandel@alumno.com"
+					},
+				"referencia": 3,
+				"confirmacion": false
+			}
+		]
+	}
+]
